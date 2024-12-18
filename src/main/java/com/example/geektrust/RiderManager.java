@@ -1,5 +1,7 @@
 package com.example.geektrust;
 
+import com.example.geektrust.person.Rider;
+
 import java.util.HashMap;
 import java.util.Map;
 
